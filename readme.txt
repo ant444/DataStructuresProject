@@ -2,9 +2,11 @@ This project Implemented an inheritance hierarchy including a Circular Linked Li
 
 Users can insert a file to be read and choose to print the subclass iteratively or recursively.
 
+call make to build each file / executable. 
+
 TO RUN: ./app
 
-Know a text file, you will be prompted for one. After that it will prompt a menu that will tell you your 8 options. 8 is to quit. 
+Know a text file (given animals.txt) , you will be prompted for one. After that it will prompt a menu that will tell you your 8 options. 8 is to quit. 
 
 Additionally, users can run via batch mode, where on command line, where you do ./app 'textfile.txt'
 
